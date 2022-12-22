@@ -1,3 +1,3 @@
 # Master
 
-The git is in progress
+The repo is in progress
