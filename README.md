@@ -4,6 +4,7 @@
 # MVA: mathematics vision and learning - Portfolio
 
   Welcome to my GitHub page presenting the coursework completed during my Masters MVA. This repository contains a comprehensive overview of the subjects I explored, the skills I developed, and the practical applications I engaged in throughout my academic journey.
+  WARNING: this repo is still i construction so there might be some errors to correct
 
 ## About
 
